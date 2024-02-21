@@ -1,0 +1,48 @@
+c:\users\asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\bin\Debug\digitallibrary.exe.config
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\bin\Debug\digitallibrary.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\bin\Debug\digitallibrary.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\bin\Debug\digitallibrary.xml
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.buku.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.cari_buku.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.Form1.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.input_ulasan.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.koleksi_pribadi.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.menu_utama.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.Resources.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.regristasi.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.ulasan.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.user.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.vbproj.GenerateResource.Cache
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.exe
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.xml
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.kategori.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.menu_user.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.pengembalian.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.laporan.resources
+C:\Users\Asus\documents\visual studio 2013\Projects\digitallibrary\digitallibrary\obj\Debug\digitallibrary.beri_ulasan.resources
+D:\UKK\digitallibrary\digitallibrary\bin\Debug\digitallibrary.exe.config
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.exe
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.xml
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.pdb
+D:\UKK\digitallibrary\digitallibrary\bin\Debug\digitallibrary.exe
+D:\UKK\digitallibrary\digitallibrary\bin\Debug\digitallibrary.pdb
+D:\UKK\digitallibrary\digitallibrary\bin\Debug\digitallibrary.xml
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.vbprojResolveAssemblyReference.cache
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.beri_ulasan.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.buku.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.cari_buku.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.Form1.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.input_ulasan.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.kategori.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.koleksi_pribadi.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.laporan.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.menu_user.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.menu_utama.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.Resources.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.pengembalian.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.regristasi.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.ulasan.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.user.resources
+D:\UKK\digitallibrary\digitallibrary\obj\Debug\digitallibrary.vbproj.GenerateResource.Cache
